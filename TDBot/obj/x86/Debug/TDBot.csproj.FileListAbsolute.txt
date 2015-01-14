@@ -1,0 +1,10 @@
+E:\workspace\vsprojects\TDBot\TDBot\bin\Debug\TDBot.exe
+E:\workspace\vsprojects\TDBot\TDBot\bin\Debug\TDBot.pdb
+E:\workspace\vsprojects\TDBot\TDBot\obj\x86\Debug\TDBot.Form1.resources
+E:\workspace\vsprojects\TDBot\TDBot\obj\x86\Debug\TDBot.Properties.Resources.resources
+E:\workspace\vsprojects\TDBot\TDBot\obj\x86\Debug\TDBot.csproj.GenerateResource.Cache
+E:\workspace\vsprojects\TDBot\TDBot\obj\x86\Debug\TDBot.exe
+E:\workspace\vsprojects\TDBot\TDBot\obj\x86\Debug\TDBot.pdb
+E:\workspace\vsprojects\TDBot\TDBot\bin\Debug\notify.ico
+E:\workspace\vsprojects\TDBot\TDBot\obj\x86\Debug\TDBot.ConfigForm.resources
+E:\workspace\vsprojects\TDBot\TDBot\obj\x86\Debug\TDBot.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+This is bot project. Maybe it will not be ended by me, but i already started it.
